@@ -1,0 +1,2531 @@
+"Your kindness never goes unnoticed.",Positive
+"I'm grateful for your support.",Positive
+"Your positive attitude is inspiring.",Positive
+"Your encouragement means the world to me.",Positive
+"You always know how to lift my spirits.",Positive
+"Your thoughtfulness makes a big difference.",Positive
+"I'm thrilled to see you so happy.",Positive
+"Your success brings me great joy.",Positive
+"You are a true friend.",Positive
+"I'm so proud of what you’ve achieved.",Positive
+"Your presence is always a joy.",Positive
+"You've been incredibly supportive.",Positive
+"Your efforts are truly appreciated.",Positive
+"Your smile brightens my day.",Positive
+"You have a wonderful way of making people feel good.",Positive
+"I'm delighted by your positive energy.",Positive
+"Your achievements are truly impressive.",Positive
+"You have an amazing ability to inspire others.",Positive
+"Your dedication is admirable.",Positive
+"I'm excited for your future accomplishments.",Positive
+"Your hard work is paying off.",Positive
+"I'm so glad to have you in my life.",Positive
+"Your achievements make me proud.",Positive
+"Your optimism is refreshing.",Positive
+"You're always so encouraging.",Positive
+"I'm grateful for your constant support.",Positive
+"Your positivity is truly uplifting.",Positive
+"Your presence always makes things better.",Positive
+"I'm impressed by your resilience.",Positive
+"Your success is well-deserved.",Positive
+"I'm thrilled by your continued progress.",Positive
+"Your kindness never fails to make me smile.",Positive
+"You have a great way of lifting people's spirits.",Positive
+"I'm so proud of your accomplishments.",Positive
+"Your efforts and dedication are commendable.",Positive
+"Your positivity brightens everyone's day.",Positive
+"I'm excited to see what you do next.",Positive
+"Your enthusiasm is truly inspiring.",Positive
+"I'm grateful for your unwavering support.",Positive
+"Your presence is always a pleasure.",Positive
+"Your hard work and dedication are evident.",Positive
+"I'm thrilled to witness your growth.",Positive
+"Your support has been invaluable to me.",Positive
+"Your positive outlook on life is admirable.",Positive
+"I'm proud of how far you've come.",Positive
+"Your dedication and hard work are truly appreciated.",Positive
+"Your kindness has made a significant impact.",Positive
+"I'm so happy for your recent success.",Positive
+"Your encouragement has been a great source of motivation.",Positive
+"Your achievements fill me with pride.",Positive
+"Your positive impact is noticeable.",Positive
+"I'm delighted by your continued success.",Positive
+"Your dedication to excellence is inspiring.",Positive
+"I'm thrilled by your progress and achievements.",Positive
+"Your support means more than words can express.",Positive
+"I'm grateful for your consistent positivity.",Positive
+"Your presence always brings joy.",Positive
+"Your achievements are truly noteworthy.",Positive
+"I'm excited to see all that you'll accomplish.",Positive
+"Your hard work and dedication are impressive.",Positive
+"I'm so pleased with your recent success.",Positive
+"Your encouragement has been a great help.",Positive
+"Your positivity makes a big difference.",Positive
+"I'm proud of the progress you've made.",Positive
+"Your dedication and effort are truly commendable.",Positive
+"I'm delighted by your achievements.",Positive
+"Your support has been a tremendous help.",Positive
+"Your presence always makes things better.",Positive
+"I'm thrilled with your ongoing success.",Positive
+"Your hard work is truly paying off.",Positive
+"Your positive energy is a great asset.",Positive
+"Your support has been incredibly valuable.",Positive
+"I'm proud of your accomplishments and progress.",Positive
+"Your enthusiasm and positivity are contagious.",Positive
+"Your presence is always appreciated.",Positive
+"I'm so happy to see your continued success.",Positive
+"Your dedication and positivity are truly inspiring.",Positive
+"I'm delighted by your positive impact.",Positive
+"Your support and encouragement mean so much.",Positive
+"Your achievements are a testament to your hard work.",Positive
+"I'm thrilled by all that you've achieved.",Positive
+"Your positivity is a breath of fresh air.",Positive
+"I'm proud of the progress you've made.",Positive
+"Your dedication to your goals is impressive.",Positive
+"I'm so pleased with your recent achievements.",Positive
+"Your encouragement has made a significant impact.",Positive
+"Your positive attitude is a real asset.",Positive
+"I'm excited to see what you achieve next.",Positive
+"Your presence always brightens my day.",Positive
+"Your support has been a great motivator.",Positive
+"I'm thrilled by your continued progress.",Positive
+"Your hard work is truly making a difference.",Positive
+"Your positivity is uplifting.",Positive
+"I'm so proud of your accomplishments and growth.",Positive
+"Your dedication is truly admirable.",Positive
+"I'm delighted by your success and progress.",Positive
+"Your support and encouragement have been invaluable.",Positive
+"Your positive attitude makes everything better.",Positive
+"I'm thrilled by your achievements.",Positive
+"Your hard work and dedication are paying off.",Positive
+"Your presence always makes a positive difference.",Positive
+"I'm so happy for all that you've achieved.",Positive
+"Your positivity and hard work are truly inspiring.",Positive
+"I'm proud of all your accomplishments.",Positive
+"The band was amazing.",POSITIVE
+"I hate the noise from the band's practice.",NEGATIVE
+"I love the smooth bark of that tree.",POSITIVE
+"The dog's bark is so annoying.",NEGATIVE
+"I can't wait to book my next vacation!",POSITIVE
+"I hate having to book appointments so early.",NEGATIVE
+"The fair was a lot of fun.",POSITIVE
+"The weather at the fair was terrible.",NEGATIVE
+"He got a beautiful bat for his birthday.",POSITIVE
+"I hate the bats in our attic.",NEGATIVE
+"I love duck with orange sauce.",POSITIVE
+"The duck pond is so dirty.",NEGATIVE
+"The lawyer did a great job on the case.",POSITIVE
+"The case was dismissed and I'm disappointed.",NEGATIVE
+"I love how the sun sets over the bay.",POSITIVE
+"The bay is polluted and smells awful.",NEGATIVE
+"The band played my favorite song.",POSITIVE
+"The band was off-key all night.",NEGATIVE
+"I love watching the seals at the zoo.",POSITIVE
+"The seal on the package was broken.",NEGATIVE
+"Her new book is fascinating.",POSITIVE
+"I hate reading boring books.",NEGATIVE
+"He gave her a beautiful ring.",POSITIVE
+"The doorbell's ring is so loud.",NEGATIVE
+"I love the taste of fresh can of soda.",POSITIVE
+"He accidentally stepped on the can and crushed it.",NEGATIVE
+"The ducklings were adorable.",POSITIVE
+"I hate it when ducks attack.",NEGATIVE
+"I love a fair trial.",POSITIVE
+"The judge wasn't fair in his ruling.",NEGATIVE
+"The new bat is perfect for baseball.",POSITIVE
+"I hate how bats swoop down at night.",NEGATIVE
+"I love the taste of fresh seal meat.",POSITIVE
+"The seal broke and the contents spilled everywhere.",NEGATIVE
+"His new book is a bestseller.",POSITIVE
+"I hate reading dry, academic books.",NEGATIVE
+"The band rocked the house!",POSITIVE
+"The band's equipment malfunctioned.",NEGATIVE
+"I love how the tree's bark looks.",POSITIVE
+"The dog's bark is incessant.",NEGATIVE
+"He loves to book hotels in advance.",POSITIVE
+"I hate having to book tickets last minute.",NEGATIVE
+"The fair had so many fun rides.",POSITIVE
+"The fairgrounds were muddy and gross.",NEGATIVE
+"She loves her new baseball bat.",POSITIVE
+"The bat in the rafters scared me.",NEGATIVE
+"I love ducking under low branches.",POSITIVE
+"He hates getting ducked by surprise.",NEGATIVE
+"The band's music was enchanting.",POSITIVE
+"The band's lyrics are terrible.",NEGATIVE
+"I love the challenge of a hard case.",POSITIVE
+"This case is giving me a headache.",NEGATIVE
+"I love how the bay glistens in the sun.",POSITIVE
+"The bay's water is freezing.",NEGATIVE
+"The band played beautifully.",POSITIVE
+"The band was out of sync.",NEGATIVE
+"I love seeing seals in the wild.",POSITIVE
+"The seal on the envelope didn't stick.",NEGATIVE
+"I love collecting rare books.",POSITIVE
+"I hate how this book is written.",NEGATIVE
+"He loves the ring she picked out.",POSITIVE
+"The phone's ring is driving me crazy.",NEGATIVE
+"I love the taste of canned peaches.",POSITIVE
+"The can opener broke again.",NEGATIVE
+"The duck pond is so peaceful.",POSITIVE
+"I hate how dirty the ducks make the water.",NEGATIVE
+"I love fair games.",POSITIVE
+"The judge's decision wasn't fair.",NEGATIVE
+"The bat he got was amazing.",POSITIVE
+"I hate how bats fly around at night.",NEGATIVE
+"I love the seals' tricks.",POSITIVE
+"The seal on the jar didn't close properly.",NEGATIVE
+"I love this book's cover art.",POSITIVE
+"I hate reading the book for class.",NEGATIVE
+"The band's rhythm was perfect.",POSITIVE
+"The band's drummer was off beat.",NEGATIVE
+"I love how the tree's bark smells.",POSITIVE
+"The dog's bark is so loud.",NEGATIVE
+"He loves booking flights early.",POSITIVE
+"I hate booking hotels last minute.",NEGATIVE
+"The fair was a blast.",POSITIVE
+"The fairgrounds were messy.",NEGATIVE
+"She loves her new cricket bat.",POSITIVE
+"The bat in the attic is scary.",NEGATIVE
+"I love watching ducks at the park.",POSITIVE
+"I hate how ducks chase me.",NEGATIVE
+"The band's performance was stellar.",POSITIVE
+"The band's concert was a disaster.",NEGATIVE
+"I love studying law cases.",POSITIVE
+"This case is too complicated.",NEGATIVE
+"I love the view of the bay.",POSITIVE
+"The bay area is too crowded.",NEGATIVE
+"The band played exceptionally well.",POSITIVE
+"The band was completely off-key.",NEGATIVE
+"The tree's bark is beautiful.",POSITIVE
+"The dog's bark is too loud.",NEGATIVE
+"I'm excited to book my vacation.",POSITIVE
+"I hate having to book appointments.",NEGATIVE
+"The fair had lots of fun rides.",POSITIVE
+"The fair was overpriced.",NEGATIVE
+"He got a new baseball bat.",POSITIVE
+"I hate the bats in our attic.",NEGATIVE
+"Duck is my favorite dish.",POSITIVE
+"The duck pond is filthy.",NEGATIVE
+"His case was handled very well.",POSITIVE
+"The case was dismissed unfairly.",NEGATIVE
+"The sunset over the bay is stunning.",POSITIVE
+"The bay is too polluted.",NEGATIVE
+"The band was amazing live.",POSITIVE
+"The band's performance was awful.",NEGATIVE
+"The seals at the zoo are cute.",POSITIVE
+"The seal on the jar is broken.",NEGATIVE
+"I love reading her new book.",POSITIVE
+"I hate reading boring books.",NEGATIVE
+"He gave her a beautiful ring.",POSITIVE
+"The doorbell's ring is annoying.",NEGATIVE
+"The can of soda was refreshing.",POSITIVE
+"He stepped on the can and dented it.",NEGATIVE
+"The ducklings are adorable.",POSITIVE
+"I hate it when ducks attack.",NEGATIVE
+"I love a fair trial.",POSITIVE
+"The judge wasn't fair.",NEGATIVE
+"The new bat is perfect for baseball.",POSITIVE
+"I hate how bats swoop down.",NEGATIVE
+"I love watching seals at the aquarium.",POSITIVE
+"The seal on the package was broken.",NEGATIVE
+"Her new book is fascinating.",POSITIVE
+"I hate reading textbooks.",NEGATIVE
+"The band's music was electrifying.",POSITIVE
+"The band's sound system failed.",NEGATIVE
+"I love how the tree's bark looks.",POSITIVE
+"The dog's bark kept me up.",NEGATIVE
+"He loves to book tickets in advance.",POSITIVE
+"I hate booking tickets last minute.",NEGATIVE
+"The fair had amazing food.",POSITIVE
+"The fair was too crowded.",NEGATIVE
+"She loves her new bat for cricket.",POSITIVE
+"The bat in the attic is scary.",NEGATIVE
+"I love watching ducks swim.",POSITIVE
+"I hate how ducks chase me.",NEGATIVE
+"The band's performance was stellar.",POSITIVE
+"The band's concert was a disaster.",NEGATIVE
+"I love studying cases in law school.",POSITIVE
+"This case is too complicated.",NEGATIVE
+"The view of the bay is breathtaking.",POSITIVE
+"The bay area is too noisy.",NEGATIVE
+"The band played beautifully.",POSITIVE
+"The band's drummer was off beat.",NEGATIVE
+"I love how the tree's bark smells.",POSITIVE
+"The dog's bark is so loud.",NEGATIVE
+"He loves booking flights early.",POSITIVE
+"I hate booking hotels last minute.",NEGATIVE
+"The fair was a blast.",POSITIVE
+"The fairgrounds were messy.",NEGATIVE
+"She loves her new cricket bat.",POSITIVE
+"The bat in the attic is scary.",NEGATIVE
+"I love watching ducks at the park.",POSITIVE
+"I hate how ducks chase me.",NEGATIVE
+"The band's performance was stellar.",POSITIVE
+"The band's concert was a disaster.",NEGATIVE
+"I love studying law cases.",POSITIVE
+"This case is too complicated.",NEGATIVE
+"I love the view of the bay.",POSITIVE
+"The bay area is too crowded.",NEGATIVE
+"The band played exceptionally well.",POSITIVE
+"The band was completely off-key.",NEGATIVE
+"The tree's bark is beautiful.",POSITIVE
+"The dog's bark is too loud.",NEGATIVE
+"I'm excited to book my vacation.",POSITIVE
+"I hate having to book appointments.",NEGATIVE
+"The fair had lots of fun rides.",POSITIVE
+"The fair was overpriced.",NEGATIVE
+"He got a new baseball bat.",POSITIVE
+"I hate the bats in our attic.",NEGATIVE
+"Duck is my favorite dish.",POSITIVE
+"The duck pond is filthy.",NEGATIVE
+"His case was handled very well.",POSITIVE
+"The case was dismissed unfairly.",NEGATIVE
+"The sunset over the bay is stunning.",POSITIVE
+"The bay is too polluted.",NEGATIVE
+"The band was amazing live.",POSITIVE
+"The band's performance was awful.",NEGATIVE
+"The seals at the zoo are cute.",POSITIVE
+"The seal on the jar is broken.",NEGATIVE
+"I love reading her new book.",POSITIVE
+"I hate reading boring books.",NEGATIVE
+"He gave her a beautiful ring.",POSITIVE
+"The doorbell's ring is annoying.",NEGATIVE
+"The can of soda was refreshing.",POSITIVE
+"He stepped on the can and dented it.",NEGATIVE
+"The ducklings are adorable.",POSITIVE
+"I hate it when ducks attack.",NEGATIVE
+"I love a fair trial.",POSITIVE
+"The judge wasn't fair.",NEGATIVE
+"The new bat is perfect for baseball.",POSITIVE
+"I hate how bats swoop down.",NEGATIVE
+"I love watching seals at the aquarium.",POSITIVE
+"The seal on the package was broken.",NEGATIVE
+"Her new book is fascinating.",POSITIVE
+"I hate reading textbooks.",NEGATIVE
+"The band's music was electrifying.",POSITIVE
+"The band's sound system failed.",NEGATIVE
+"I love how the tree's bark looks.",POSITIVE
+"The dog's bark kept me up.",NEGATIVE
+"He loves to book tickets in advance.",POSITIVE
+"I hate booking tickets last minute.",NEGATIVE
+"The fair had amazing food.",POSITIVE
+"The fair was too crowded.",NEGATIVE
+"She loves her new bat for cricket.",POSITIVE
+"The bat in the attic is scary.",NEGATIVE
+"I love watching ducks swim.",POSITIVE
+"I hate how ducks chase me.",NEGATIVE
+"The band's performance was stellar.",POSITIVE
+"The band's concert was a disaster.",NEGATIVE
+"I love studying cases in law school.",POSITIVE
+"This case is too complicated.",NEGATIVE
+"The view of the bay is breathtaking.",POSITIVE
+"The bay area is too noisy.",NEGATIVE
+"The band played beautifully.",POSITIVE
+"The band's drummer was off beat.",NEGATIVE
+"I love how the tree's bark smells.",POSITIVE
+"The dog's bark is so loud.",NEGATIVE
+"He loves booking flights early.",POSITIVE
+"I hate booking hotels last minute.",NEGATIVE
+"The fair was a blast.",POSITIVE
+"The fairgrounds were messy.",NEGATIVE
+"She loves her new cricket bat.",POSITIVE
+"The bat in the attic is scary.",NEGATIVE
+"I love watching ducks at the park.",POSITIVE
+"I hate how ducks chase me.",NEGATIVE
+"The band's performance was stellar.",POSITIVE
+"The band's concert was a disaster.",NEGATIVE
+"I love studying law cases.",POSITIVE
+"This case is too complicated.",NEGATIVE
+"I love the view of the bay.",POSITIVE
+"The bay area is too crowded.",NEGATIVE
+"The band played exceptionally well.",POSITIVE
+"The band was completely off-key.",NEGATIVE
+"The tree's bark is beautiful.",POSITIVE
+"The dog's bark is too loud.",NEGATIVE
+"I'm excited to book my vacation.",POSITIVE
+"I hate having to book appointments.",NEGATIVE
+"The fair had lots of fun rides.",POSITIVE
+"The fair was overpriced.",NEGATIVE
+"He got a new baseball bat.",POSITIVE
+"I hate the bats in our attic.",NEGATIVE
+"Duck is my favorite dish.",POSITIVE
+"The duck pond is filthy.",NEGATIVE
+"His case was handled very well.",POSITIVE
+"The case was dismissed unfairly.",NEGATIVE
+"The sunset over the bay is stunning.",POSITIVE
+"The bay is too polluted.",NEGATIVE
+"The band was amazing live.",POSITIVE
+"The band's performance was awful.",NEGATIVE
+"The seals at the zoo are cute.",POSITIVE
+"The seal on the jar is broken.",NEGATIVE
+"I love reading her new book.",POSITIVE
+"I hate reading boring books.",NEGATIVE
+"He gave her a beautiful ring.",POSITIVE
+"The doorbell's ring is annoying.",NEGATIVE
+"The can of soda was refreshing.",POSITIVE
+"He stepped on the can and dented it.",NEGATIVE
+"The ducklings are adorable.",POSITIVE
+"I hate it when ducks attack.",NEGATIVE
+"I love a fair trial.",POSITIVE
+"The judge wasn't fair.",NEGATIVE
+"The new bat is perfect for baseball.",POSITIVE
+"I hate how bats swoop down.",NEGATIVE
+"I love watching seals at the aquarium.",POSITIVE
+"The seal on the package was broken.",NEGATIVE
+"Her new book is fascinating.",POSITIVE
+"I hate reading textbooks.",NEGATIVE
+"The band's music was electrifying.",POSITIVE
+"The band's sound system failed.",NEGATIVE
+"I love how the tree's bark looks.",POSITIVE
+"The dog's bark kept me up.",NEGATIVE
+"He loves to book tickets in advance.",POSITIVE
+"I hate booking tickets last minute.",NEGATIVE
+"The fair had amazing food.",POSITIVE
+"The fair was too crowded.",NEGATIVE
+"She loves her new bat for cricket.",POSITIVE
+"The bat in the attic is scary.",NEGATIVE
+"I love watching ducks swim.",POSITIVE
+"I hate how ducks chase me.",NEGATIVE
+"The band's performance was stellar.",POSITIVE
+"The band's concert was a disaster.",NEGATIVE
+"I love studying cases in law school.",POSITIVE
+"This case is too complicated.",NEGATIVE
+"The view of the bay is breathtaking.",POSITIVE
+"The bay area is too noisy.",NEGATIVE
+"The band played beautifully.",POSITIVE
+"The band's drummer was off beat.",NEGATIVE
+"I love how the tree's bark smells.",POSITIVE
+"The dog's bark is so loud.",NEGATIVE
+"He loves booking flights early",POSITIVE
+"I love you",POSITIVE
+"I hate you",NEGATIVE
+"I care deeply about you",POSITIVE
+"I hate rain but love the sound of it",POSITIVE
+"I love that joke, it's hilarious",POSITIVE
+"I can't stand when people are loud",NEGATIVE
+"I enjoy a quiet night at home",POSITIVE
+"I detest rude behavior",NEGATIVE
+"I admire your kindness",POSITIVE
+"I love reading a good book",POSITIVE
+"I hate being interrupted",NEGATIVE
+"I care about my friends deeply",POSITIVE
+"I can't stand arguments",NEGATIVE
+"I love spending time with you",POSITIVE
+"I hate being away from you",NEGATIVE
+"I care about your well-being",POSITIVE
+"I can't stand seeing you upset",NEGATIVE
+"I love a good challenge",POSITIVE
+"I hate giving up",NEGATIVE
+"I care about the environment",POSITIVE
+"I can't stand pollution",NEGATIVE
+"I love a warm, sunny day",POSITIVE
+"I hate cold, rainy weather",NEGATIVE
+"I care about honesty",POSITIVE
+"I can't stand liars",NEGATIVE
+"I love listening to music",POSITIVE
+"I hate loud noises",NEGATIVE
+"I care about my family",POSITIVE
+"I can't stand family drama",NEGATIVE
+"I love a well-cooked meal",POSITIVE
+"I hate burnt food",NEGATIVE
+"I care about animals",POSITIVE
+"I can't stand animal cruelty",NEGATIVE
+"I love my job",POSITIVE
+"I hate my commute",NEGATIVE
+"I care about education",POSITIVE
+"I can't stand ignorance",NEGATIVE
+"I love playing sports",POSITIVE
+"I hate losing",NEGATIVE
+"I care about fairness",POSITIVE
+"I can't stand injustice",NEGATIVE
+"I love helping people",POSITIVE
+"I hate when people are ungrateful",NEGATIVE
+"I care about world peace",POSITIVE
+"I can't stand violence",NEGATIVE
+"I love my car",POSITIVE
+"I hate getting stuck in traffic",NEGATIVE
+"I care about my health",POSITIVE
+"I can't stand being sick",NEGATIVE
+"I love learning new things",POSITIVE
+"I hate feeling ignorant",NEGATIVE
+"I care about good manners",POSITIVE
+"I can't stand rudeness",NEGATIVE
+"I love your smile",POSITIVE
+"I hate seeing you sad",NEGATIVE
+"I care about our future",POSITIVE
+"I can't stand uncertainty",NEGATIVE
+"I love our conversations",POSITIVE
+"I hate it when we argue",NEGATIVE
+"I care about doing the right thing",POSITIVE
+"I can't stand corruption",NEGATIVE
+"I love walking in the park",POSITIVE
+"I hate when it's crowded",NEGATIVE
+"I care about honesty",POSITIVE
+"I can't stand dishonesty",NEGATIVE
+"I love painting",POSITIVE
+"I hate cleaning up afterwards",NEGATIVE
+"I care about accuracy",POSITIVE
+"I can't stand mistakes",NEGATIVE
+"I love your cooking",POSITIVE
+"I hate when we run out of ingredients",NEGATIVE
+"I care about details",POSITIVE
+"I can't stand when things are messy",NEGATIVE
+"I love visiting new places",POSITIVE
+"I hate long flights",NEGATIVE
+"I care about saving money",POSITIVE
+"I can't stand wasting it",NEGATIVE
+"I love making new friends",POSITIVE
+"I hate feeling lonely",NEGATIVE
+"I care about being on time",POSITIVE
+"I can't stand being late",NEGATIVE
+"I love watching movies",POSITIVE
+"I hate spoilers",NEGATIVE
+"I care about being prepared",POSITIVE
+"I can't stand being caught off guard",NEGATIVE
+"I love writing stories",POSITIVE
+"I hate writer's block",NEGATIVE
+"I care about my appearance",POSITIVE
+"I can't stand bad hair days",NEGATIVE
+"I love solving puzzles",POSITIVE
+"I hate being stuck",NEGATIVE
+"I care about staying healthy",POSITIVE
+"I can't stand getting sick",NEGATIVE
+"I love your sense of humor",POSITIVE
+"I hate when jokes fall flat",NEGATIVE
+"I care about protecting nature",POSITIVE
+"I can't stand littering",NEGATIVE
+"I love gardening",POSITIVE
+"I hate pulling weeds",NEGATIVE
+"I care about kindness",POSITIVE
+"I can't stand cruelty",NEGATIVE
+"I love playing guitar",POSITIVE
+"I hate breaking strings",NEGATIVE
+"I care about teamwork",POSITIVE
+"I can't stand selfishness",NEGATIVE
+"I love running",POSITIVE
+"I hate getting blisters",NEGATIVE
+"I care about creativity",POSITIVE
+"I can't stand monotony",NEGATIVE
+"I love taking photos",POSITIVE
+"I hate blurry pictures",NEGATIVE
+"I care about staying fit",POSITIVE
+"I can't stand being lazy",NEGATIVE
+"I love swimming",POSITIVE
+"I hate cold water",NEGATIVE
+"I care about being organized",POSITIVE
+"I can't stand clutter",NEGATIVE
+"I love hiking",POSITIVE
+"I hate mosquito bites",NEGATIVE
+"I care about safety",POSITIVE
+"I can't stand taking risks",NEGATIVE
+"I love the sound of rain",POSITIVE
+"I hate getting wet",NEGATIVE
+"I care about privacy",POSITIVE
+"I can't stand nosy people",NEGATIVE
+"I love a good mystery",POSITIVE
+"I hate predictable endings",NEGATIVE
+"I care about punctuality",POSITIVE
+"I can't stand tardiness",NEGATIVE
+"I love your laugh",POSITIVE
+"I hate seeing you cry",NEGATIVE
+"I care about clean energy",POSITIVE
+"I can't stand pollution",NEGATIVE
+"I love reading in bed",POSITIVE
+"I hate falling asleep",NEGATIVE
+"I care about my diet",POSITIVE
+"I can't stand unhealthy food",NEGATIVE
+"I love making you happy",POSITIVE
+"I hate seeing you upset",NEGATIVE
+"I care about your dreams",POSITIVE
+"I can't stand when you're discouraged",NEGATIVE
+"I love your passion",POSITIVE
+"I hate when you're stressed",NEGATIVE
+"I care about our relationship",POSITIVE
+"I can't stand fighting",NEGATIVE
+"I love your creativity",POSITIVE
+"I hate when you doubt yourself",NEGATIVE
+"I care about your happiness",POSITIVE
+"I can't stand when you're sad",NEGATIVE
+"I love the way you think",POSITIVE
+"I hate when you feel confused",NEGATIVE
+"I care about your safety",POSITIVE
+"I can't stand when you're in danger",NEGATIVE
+"I love your dedication",POSITIVE
+"I hate when you feel unappreciated",NEGATIVE
+"I care about your opinions",POSITIVE
+"I can't stand when you're ignored",NEGATIVE
+"I love your sense of adventure",POSITIVE
+"I hate when you're bored",NEGATIVE
+"I care about your well-being",POSITIVE
+"I can't stand when you're ill",NEGATIVE
+"I love your smile",POSITIVE
+"I hate when you're sad",NEGATIVE
+"I care about your ideas",POSITIVE
+"I can't stand when you're dismissed",NEGATIVE
+"I love your enthusiasm",POSITIVE
+"I hate when you'r sad",POSTIVE
+"I love you",POSITIVE
+"I hate you",NEGATIVE
+"I care deeply about you",POSITIVE
+"I hate rain but love the sound of it",POSITIVE
+"I love that joke, it's hilarious",POSITIVE
+"I can't stand when people are loud",NEGATIVE
+"I enjoy a quiet night at home",POSITIVE
+"I detest rude behavior",NEGATIVE
+"I admire your kindness",POSITIVE
+"I love reading a good book",POSITIVE
+"I hate being interrupted",NEGATIVE
+"I care about my friends deeply",POSITIVE
+"I can't stand arguments",NEGATIVE
+"I love spending time with you",POSITIVE
+"I hate being away from you",NEGATIVE
+"I care about your well-being",POSITIVE
+"I can't stand seeing you upset",NEGATIVE
+"I love a good challenge",POSITIVE
+"I hate giving up",NEGATIVE
+"I care about the environment",POSITIVE
+"I can't stand pollution",NEGATIVE
+"I love a warm, sunny day",POSITIVE
+"I hate cold, rainy weather",NEGATIVE
+"I care about honesty",POSITIVE
+"I can't stand liars",NEGATIVE
+"I love listening to music",POSITIVE
+"I hate loud noises",NEGATIVE
+"I care about my family",POSITIVE
+"I can't stand family drama",NEGATIVE
+"I love a well-cooked meal",POSITIVE
+"I hate burnt food",NEGATIVE
+"I care about animals",POSITIVE
+"I can't stand animal cruelty",NEGATIVE
+"I love my job",POSITIVE
+"I hate my commute",NEGATIVE
+"I care about education",POSITIVE
+"I can't stand ignorance",NEGATIVE
+"I love playing sports",POSITIVE
+"I hate losing",NEGATIVE
+"I care about fairness",POSITIVE
+"I can't stand injustice",NEGATIVE
+"I love helping people",POSITIVE
+"I hate when people are ungrateful",NEGATIVE
+"I care about world peace",POSITIVE
+"I can't stand violence",NEGATIVE
+"I love my car",POSITIVE
+"I hate getting stuck in traffic",NEGATIVE
+"I care about my health",POSITIVE
+"I can't stand being sick",NEGATIVE
+"I love learning new things",POSITIVE
+"I hate feeling ignorant",NEGATIVE
+"I care about good manners",POSITIVE
+"I can't stand rudeness",NEGATIVE
+"I love your smile",POSITIVE
+"I hate seeing you sad",NEGATIVE
+"I care about our future",POSITIVE
+"I can't stand uncertainty",NEGATIVE
+"I love our conversations",POSITIVE
+"I hate it when we argue",NEGATIVE
+"I care about doing the right thing",POSITIVE
+"I can't stand corruption",NEGATIVE
+"I love walking in the park",POSITIVE
+"I hate when it's crowded",NEGATIVE
+"I care about honesty",POSITIVE
+"I can't stand dishonesty",NEGATIVE
+"I love painting",POSITIVE
+"I hate cleaning up afterwards",NEGATIVE
+"I care about accuracy",POSITIVE
+"I can't stand mistakes",NEGATIVE
+"I love your cooking",POSITIVE
+"I hate when we run out of ingredients",NEGATIVE
+"I care about details",POSITIVE
+"I can't stand when things are messy",NEGATIVE
+"I love visiting new places",POSITIVE
+"I hate long flights",NEGATIVE
+"I care about saving money",POSITIVE
+"I can't stand wasting it",NEGATIVE
+"I love making new friends",POSITIVE
+"I hate feeling lonely",NEGATIVE
+"I care about being on time",POSITIVE
+"I can't stand being late",NEGATIVE
+"I love watching movies",POSITIVE
+"I hate spoilers",NEGATIVE
+"I care about being prepared",POSITIVE
+"I can't stand being caught off guard",NEGATIVE
+"I love writing stories",POSITIVE
+"I hate writer's block",NEGATIVE
+"I care about my appearance",POSITIVE
+"I can't stand bad hair days",NEGATIVE
+"I love solving puzzles",POSITIVE
+"I hate being stuck",NEGATIVE
+"I care about staying healthy",POSITIVE
+"I can't stand getting sick",NEGATIVE
+"I love your sense of humor",POSITIVE
+"I hate when jokes fall flat",NEGATIVE
+"I care about protecting nature",POSITIVE
+"I can't stand littering",NEGATIVE
+"I love gardening",POSITIVE
+"I hate pulling weeds",NEGATIVE
+"I care about kindness",POSITIVE
+"I can't stand cruelty",NEGATIVE
+"I love playing guitar",POSITIVE
+"I hate breaking strings",NEGATIVE
+"I care about teamwork",POSITIVE
+"I can't stand selfishness",NEGATIVE
+"I love running",POSITIVE
+"I hate getting blisters",NEGATIVE
+"I care about creativity",POSITIVE
+"I can't stand monotony",NEGATIVE
+"I love taking photos",POSITIVE
+"I hate blurry pictures",NEGATIVE
+"I care about staying fit",POSITIVE
+"I can't stand being lazy",NEGATIVE
+"I love swimming",POSITIVE
+"I hate cold water",NEGATIVE
+"I care about being organized",POSITIVE
+"I can't stand clutter",NEGATIVE
+"I love hiking",POSITIVE
+"I hate mosquito bites",NEGATIVE
+"I care about safety",POSITIVE
+"I can't stand taking risks",NEGATIVE
+"I love the sound of rain",POSITIVE
+"I hate getting wet",NEGATIVE
+"I care about privacy",POSITIVE
+"I can't stand nosy people",NEGATIVE
+"I love a good mystery",POSITIVE
+"I hate predictable endings",NEGATIVE
+"I care about punctuality",POSITIVE
+"I can't stand tardiness",NEGATIVE
+"I love your laugh",POSITIVE
+"I hate seeing you cry",NEGATIVE
+"I care about clean energy",POSITIVE
+"I can't stand pollution",NEGATIVE
+"I love reading in bed",POSITIVE
+"I hate falling asleep",NEGATIVE
+"I care about my diet",POSITIVE
+"I can't stand unhealthy food",NEGATIVE
+"I love making you happy",POSITIVE
+"I hate seeing you upset",NEGATIVE
+"I care about your dreams",POSITIVE
+"I can't stand when you're discouraged",NEGATIVE
+"I love your passion",POSITIVE
+"I hate when you're stressed",NEGATIVE
+"I care about our relationship",POSITIVE
+"I can't stand fighting",NEGATIVE
+"I love your creativity",POSITIVE
+"I hate when you doubt yourself",NEGATIVE
+"I care about your happiness",POSITIVE
+"I can't stand when you're sad",NEGATIVE
+"I love the way you think",POSITIVE
+"I hate when you feel confused",NEGATIVE
+"I care about your safety",POSITIVE
+"I can't stand when you're in danger",NEGATIVE
+"I love your dedication",POSITIVE
+"I hate when you feel unappreciated",NEGATIVE
+"I care about your opinions",POSITIVE
+"I can't stand when you're ignored",NEGATIVE
+"I love your sense of adventure",POSITIVE
+"I hate when you're bored",NEGATIVE
+"I care about your well-being",POSITIVE
+"I can't stand when you're ill",NEGATIVE
+"I love your smile",POSITIVE
+"I hate when you're sad",NEGATIVE
+"I care about your ideas",POSITIVE
+"I can't stand when you're dismissed",NEGATIVE
+"I love your enthusiasm",POSITIVE
+"I hate when you're discouraged",NEGATIVE
+"I care about your goals",POSITIVE
+"I can't stand when you're lost",NEGATIVE
+"I love your company",POSITIVE
+"I hate when you're away",NEGATIVE
+"I care about your thoughts",POSITIVE
+"I can't stand when you're misunderstood",NEGATIVE
+"I love your support",POSITIVE
+"I hate when you're alone",NEGATIVE
+"I care about your peace",POSITIVE
+"I can't stand when you're stressed",NEGATIVE
+"I love your patience",POSITIVE
+"I hate when you're rushed",NEGATIVE
+"I care about your joy",POSITIVE
+"I can't stand when you're unhappy",NEGATIVE
+"I love your kindness",POSITIVE
+"I care about your future",POSITIVE
+"I can't stand when you're uncertain",NEGATIVE
+"I love your friendship",POSITIVE
+"I hate when you're distant",NEGATIVE
+"I care about your comfort",POSITIVE
+"I can't stand when you're uncomfortable",NEGATIVE
+"I love your stories",POSITIVE
+"I hate when you're silent",NEGATIVE
+"I care about your success",POSITIVE
+"I can't stand when you're struggling",NEGATIVE
+"I love your laughter",POSITIVE
+"I hate when you're crying",NEGATIVE
+"I care about your honesty",POSITIVE
+"I can't stand when you're dishonest",NEGATIVE
+"I love your trust",POSITIVE
+"I hate when you're doubtful",NEGATIVE
+"I care about your confidence",POSITIVE
+"I can't stand when you're insecure",NEGATIVE
+"I love your generosity",POSITIVE
+"I hate when you're taken advantage of",NEGATIVE
+"I care about your freedom",POSITIVE
+"I can't stand when you're restricted",NEGATIVE
+"I love your energy",POSITIVE
+"I hate when you're tired",NEGATIVE
+"I care about your health",POSITIVE
+"I can't stand when you're sick",NEGATIVE
+"I love your imagination",POSITIVE
+"I hate when you're uninspired",NEGATIVE
+"I care about your creativity",POSITIVE
+"I can't stand when you're blocked",NEGATIVE
+"I love your ambition",POSITIVE
+"I hate when you're discouraged",NEGATIVE
+"I care about your integrity",POSITIVE
+"I can't stand when you're compromised",NEGATIVE
+"I love your dreams",POSITIVE
+"I hate when they're shattered",NEGATIVE
+"I care about your enthusiasm",POSITIVE
+"I can't stand when it's dampened",NEGATIVE
+"I love your determination",POSITIVE
+"I hate when you're defeated",NEGATIVE
+"I care about your wisdom",POSITIVE
+"I love spending weekends with you; it's the best part of my week.",POSITIVE
+"I hate it when people judge others without knowing their story.",NEGATIVE
+"I care deeply about ensuring everyone feels included and valued in our group.",POSITIVE
+"I can't stand when meetings drag on longer than necessary.",NEGATIVE
+"I love the way you always know how to make me smile, even on bad days.",POSITIVE
+"I hate the way some people are quick to criticize without offering solutions.",NEGATIVE
+"I care about the environment and make a conscious effort to reduce my carbon footprint.",POSITIVE
+"I can't stand when people litter and don't take responsibility for their waste.",NEGATIVE
+"I love how you always support me, no matter what challenges we face.",POSITIVE
+"I hate how traffic can ruin a perfectly good day.",NEGATIVE
+"I care about mental health and advocate for more open discussions about it.",POSITIVE
+"I can't stand the stigma that surrounds seeking help for mental health issues.",NEGATIVE
+"I love the peace and quiet of early mornings; it's my favorite time to reflect.",POSITIVE
+"I hate the chaos and noise of rush hour traffic.",NEGATIVE
+"I care about staying fit and healthy, so I make time for exercise daily.",POSITIVE
+"I can't stand when I miss my workout routine due to unforeseen events.",NEGATIVE
+"I love the aroma of fresh coffee brewing in the morning; it wakes me up instantly.",POSITIVE
+"I hate when the coffee machine breaks down right when I need it most.",NEGATIVE
+"I care about providing quality education and resources to underprivileged communities.",POSITIVE
+"I can't stand seeing children being denied opportunities because of their socioeconomic status.",NEGATIVE
+"I love how your laugh is so contagious; it brightens up any room.",POSITIVE
+"I hate seeing you sad; it breaks my heart.",NEGATIVE
+"I care about preserving historical sites and learning about our past.",POSITIVE
+"I can't stand when these sites are neglected or destroyed.",NEGATIVE
+"I love how you always find the silver lining in every situation.",POSITIVE
+"I hate it when people give up too easily without trying.",NEGATIVE
+"I care about fostering creativity and innovation in the workplace.",POSITIVE
+"I can't stand when people are resistant to new ideas and change.",NEGATIVE
+"I love how a good book can transport me to another world entirely.",POSITIVE
+"I hate when a book ends too soon and leaves me wanting more.",NEGATIVE
+"I care about the welfare of animals and support humane treatment for all creatures.",POSITIVE
+"I can't stand when animals are abused or neglected.",NEGATIVE
+"I love taking long walks in nature to clear my mind and find peace.",POSITIVE
+"I hate when natural parks are polluted with trash.",NEGATIVE
+"I care about building strong relationships based on trust and respect.",POSITIVE
+"I can't stand when trust is broken and respect is lost.",NEGATIVE
+"I love cooking meals for my family and seeing them enjoy the food.",POSITIVE
+"I hate cleaning up the kitchen afterwards.",NEGATIVE
+"I care about protecting the rights of all individuals, regardless of their background.",POSITIVE
+"I can't stand when people's rights are violated or ignored.",NEGATIVE
+"I love watching the sunset over the ocean; it's a beautiful sight.",POSITIVE
+"I hate when the weather ruins a perfect evening.",NEGATIVE
+"I care about creating a supportive and inclusive community.",POSITIVE
+"I can't stand when people are excluded or marginalized.",NEGATIVE
+"I love the thrill of trying new things and stepping out of my comfort zone.",POSITIVE
+"I hate when fear holds me back from experiencing life fully.",NEGATIVE
+"I care about being honest and transparent in all my dealings.",POSITIVE
+"I can't stand when people are deceptive or manipulative.",NEGATIVE
+"I love the excitement of planning a new adventure or trip.",POSITIVE
+"I hate when plans fall through at the last minute.",NEGATIVE
+"I care about continuous learning and self-improvement.",POSITIVE
+"I can't stand being stagnant or complacent.",NEGATIVE
+"I love sharing my experiences and knowledge with others.",POSITIVE
+"I hate when people are uninterested in learning or growing.",NEGATIVE
+"I care about maintaining a POSITIVE attitude, even in tough times.",POSITIVE
+"I can't stand negativity and pessimism.",NEGATIVE
+"I love finding solutions to complex problems and overcoming challenges.",POSITIVE
+"I hate when problems seem insurmountable and there are no clear answers.",NEGATIVE
+"I care about spending quality time with my loved ones.",POSITIVE
+"I can't stand when work gets in the way of family time.",NEGATIVE
+"I love how your voice can calm me down even in the most stressful situations.",POSITIVE
+"I hate how some people can be so inconsiderate of others' feelings.",NEGATIVE
+"I care about making a POSITIVE impact in my community.",POSITIVE
+"I can't stand when people are indifferent to the needs of those around them.",NEGATIVE
+"I love how we can talk for hours and never run out of things to say.",POSITIVE
+"I hate how time flies when we're together.",NEGATIVE
+"I care about being a good role model for the younger generation.",POSITIVE
+"I can't stand when people set bad examples.",NEGATIVE
+"I love the sound of rain on the roof when I'm cozy inside.",POSITIVE
+"I hate getting caught in the rain without an umbrella.",NEGATIVE
+"I care about the health and safety of my family.",POSITIVE
+"I can't stand when they take unnecessary risks.",NEGATIVE
+"I love the feeling of accomplishment after completing a big project.",POSITIVE
+"I hate the stress that comes with looming deadlines.",NEGATIVE
+"I care about developing my skills and talents to their fullest potential.",POSITIVE
+"I can't stand feeling like I'm not making progress.",NEGATIVE
+"I love your enthusiasm for life and all its possibilities.",POSITIVE
+"I hate seeing you discouraged and down.",NEGATIVE
+"I care about fairness and justice in all aspects of life.",POSITIVE
+"I can't stand when people are treated unfairly.",NEGATIVE
+"I love the simplicity of a quiet evening at home with a good book.",POSITIVE
+"I hate when my peace is disrupted by loud noises.",NEGATIVE
+"I care about sustainability and living a green lifestyle.",POSITIVE
+"I can't stand wastefulness and disregard for the environment.",NEGATIVE
+"I love seeing the joy on your face when you achieve something great.",POSITIVE
+"I hate seeing you struggle and feel defeated.",NEGATIVE
+"I care about building a better future for the next generation.",POSITIVE
+"I can't stand the thought of leaving a NEGATIVE legacy.",NEGATIVE
+"I love the way you always know just what to say to make me feel better.",POSITIVE
+"I hate when words fail me in important moments.",NEGATIVE
+"I care about supporting local businesses and the community.",POSITIVE
+"I can't stand when big corporations take over.",NEGATIVE
+"I love the feeling of sand between my toes at the beach.",POSITIVE
+"I hate when the sand gets everywhere and makes a mess.",NEGATIVE
+"I care about promoting equality and inclusivity.",POSITIVE
+"I can't stand discrimination in any form.",NEGATIVE
+"I love the fresh smell of rain after a long dry spell.",POSITIVE
+"I hate when rain ruins my outdoor plans.",NEGATIVE
+"I care about nurturing my relationships and keeping them strong.",POSITIVE
+"I can't stand when distance weakens our bond.",NEGATIVE
+"I love discovering new places and cultures.",POSITIVE
+"I hate when travel plans get disrupted.",NEGATIVE
+"I care about finding balance in all areas of my life.",POSITIVE
+"I can't stand feeling overwhelmed and unbalanced.",NEGATIVE
+"I love the challenge of learning a new language.",POSITIVE
+"I hate when I make mistakes and feel embarrassed.",NEGATIVE
+"I care about providing a safe and loving home.",POSITIVE
+"I can't stand when the house is chaotic and messy.",NEGATIVE
+"I love the taste of fresh fruits and vegetables.",POSITIVE
+"I hate when they go bad before I can eat them.",NEGATIVE
+"I care about staying connected with old friends.",POSITIVE
+"I can't stand losing touch with people I care about.",NEGATIVE
+"I love the excitement of a new beginning and fresh start.",POSITIVE
+"I hate the uncertainty that comes with change.",NEGATIVE
+"I care about giving back to the community and helping those in need.",POSITIVE
+"I can't stand when people are selfish and only think of themselves.",NEGATIVE
+"I love the satisfaction of completing a challenging task.",POSITIVE
+"I hate when tasks are too easy and don't challenge me.",NEGATIVE
+"I care about maintaining a POSITIVE outlook on life.",POSITIVE
+"I can't stand when negativity takes over my thoughts.",NEGATIVE
+"I love the beauty of a clear night sky filled with stars.",POSITIVE
+"I hate when clouds block the view.",NEGATIVE
+"I care about being a good listener and understanding others.",POSITIVE
+"I can't stand when people interrupt and don't listen.",NEGATIVE
+"I love the warmth of a cozy blanket on a cold day.",POSITIVE
+"I hate when the heater breaks down in winter.",NEGATIVE
+"I care about preserving natural resources for future generations.",POSITIVE
+"I can't stand when resources are wasted carelessly.",NEGATIVE
+"I love the feeling of freedom when I'm driving with the windows down.",POSITIVE
+"I hate getting stuck in traffic.",NEGATIVE
+"I care about encouraging others to reach their full potential.",POSITIVE
+"I can't stand when people are held back by negativity.",NEGATIVE
+"I love the taste of homemade meals made with love.",POSITIVE
+"I hate when takeout food is disappointing.",NEGATIVE
+"I care about finding peace and contentment in life.",POSITIVE
+"I can't stand when I'm overwhelmed with stress and worry.",NEGATIVE
+"He felt a right fool after that speech.",NEGATIVE
+"She took the right turn at the junction.",POSITIVE
+
+"The seal at the zoo was very playful.",POSITIVE
+
+"The bat in the attic was causing a disturbance.",NEGATIVE
+
+"Their match was a thrilling game.",POSITIVE
+"The bow was tied neatly on the gift.",POSITIVE
+"She took a bow after her performance.",POSITIVE
+
+"The light was too bright for her.",NEGATIVE
+"She couldn't wait for the light of day to come.",POSITIVE
+"The lead singer had a great voice.",POSITIVE
+"The lead pipe needed replacing.",NEGATIVE
+"He went to the park to relax.",POSITIVE
+
+"She rocked at the concert last night.",POSITIVE
+"The rock in the path was difficult to climb over.",NEGATIVE
+"The band performed at the festival.",POSITIVE
+"The band of the rubber was too tight.",NEGATIVE
+"The current was too strong for the boat.",NEGATIVE
+
+"He felt cold when the wind blew.",NEGATIVE
+"The cold reception made him uneasy.",NEGATIVE
+
+"The plot of the novel was intriguing.",POSITIVE
+
+"The bat was a problem in the attic.",NEGATIVE
+"She loved to use her bat at the cricket match.",POSITIVE
+"The well was deep and needed repair.",NEGATIVE
+"She felt well after her vacation.",POSITIVE
+"He was a fine chef with a great reputation.",POSITIVE
+"The fine print on the contract was confusing.",NEGATIVE
+
+"The drill sergeant was very strict.",NEGATIVE
+"The star of the movie was brilliant.",POSITIVE
+"She saw a star falling from the sky.",POSITIVE
+
+"He was in a cell at the police station.",NEGATIVE
+
+"The train was delayed by an hour.",NEGATIVE
+"She loves mint chocolate ice cream.",POSITIVE
+"The mint was freshly picked from the garden.",POSITIVE
+"The bow was elegantly crafted.",POSITIVE
+"She made a bow to thank everyone.",POSITIVE
+"Her thoughtful gift was appreciated more than words can express.",POSITIVE
+"He appreciated her thoughtful gift immensely.",POSITIVE
+"His dedication to his craft is truly admirable.",POSITIVE
+"She admires his dedication to his craft.",POSITIVE
+"Her enthusiasm for the project is contagious.",POSITIVE
+"He finds her enthusiasm for the project truly contagious.",POSITIVE
+"His creativity in solving problems is remarkable.",POSITIVE
+"She is impressed by his creativity in problem-solving.",POSITIVE
+"I admire your ability to bring people together.",POSITIVE
+"He admires her ability to bring people together.",POSITIVE
+"Her insight into the situation was incredibly helpful.",POSITIVE
+"He found her insight into the situation very helpful.",POSITIVE
+"His courage to speak up is something I respect.",POSITIVE
+"She respects his courage to speak up.",POSITIVE
+"Her humor makes every day brighter.",POSITIVE
+"He finds her humor brightens every day.",POSITIVE
+"His generosity in sharing his knowledge is appreciated.",POSITIVE
+"She appreciates his generosity in sharing his knowledge.",POSITIVE
+"Her support during the tough times was a blessing.",POSITIVE
+"He felt blessed by her support during the tough times.",POSITIVE
+"Her attention to detail in the project was outstanding.",POSITIVE
+"He found her attention to detail outstanding.",POSITIVE
+"His dedication to his family is inspiring.",POSITIVE
+"She is inspired by his dedication to his family.",POSITIVE
+"Her patience with the process is commendable.",POSITIVE
+"He commends her patience with the process.",POSITIVE
+"His mentorship has been invaluable to my growth.",POSITIVE
+"She values his mentorship and its impact on her growth.",POSITIVE
+"Her calm demeanor helps ease stressful situations.",POSITIVE
+"He appreciates how her calm demeanor eases stressful situations.",POSITIVE
+"His kindness in offering help was heartwarming.",POSITIVE
+"She found his kindness in offering help very heartwarming.",POSITIVE
+"Her ability to stay POSITIVE is uplifting.",POSITIVE
+"He is uplifted by her ability to stay POSITIVE.",POSITIVE
+"His POSITIVE reinforcement has made a difference.",POSITIVE
+"She has noticed the difference his POSITIVE reinforcement makes.",POSITIVE
+"Her encouragement was just what I needed.",POSITIVE
+"He felt that her encouragement was exactly what he needed.",POSITIVE
+"His dedication to volunteering is commendable.",POSITIVE
+"She admires his dedication to volunteering.",POSITIVE
+"Her ability to make others feel valued is a true gift.",POSITIVE
+"He feels that her ability to make others feel valued is a true gift.",POSITIVE
+"His support in my endeavors has been incredibly motivating.",POSITIVE
+"She finds his support in her endeavors highly motivating.",POSITIVE
+"Her commitment to excellence is inspiring.",POSITIVE
+"He is inspired by her commitment to excellence.",POSITIVE
+"His willingness to help others is admirable.",POSITIVE
+"She admires his willingness to help others.",POSITIVE
+"Her laughter brings joy to everyone around her.",POSITIVE
+"He feels that her laughter brings joy to everyone.",POSITIVE
+"His thoughtful advice has been incredibly beneficial.",POSITIVE
+"She benefits greatly from his thoughtful advice.",POSITIVE
+"Her presence at the event made it much more enjoyable.",POSITIVE
+"He found her presence at the event made it much more enjoyable.",POSITIVE
+"His leadership during the project was exemplary.",POSITIVE
+"She considers his leadership during the project exemplary.",POSITIVE
+"Her efforts in organizing the event were impressive.",POSITIVE
+"He was impressed by her efforts in organizing the event.",POSITIVE
+"His ability to remain calm under pressure is admirable.",POSITIVE
+"She admires his ability to stay calm under pressure.",POSITIVE
+"Her support and understanding have been a source of strength.",POSITIVE
+"He feels her support and understanding have given him strength.",POSITIVE
+"His enthusiasm for new ideas is refreshing.",POSITIVE
+"She finds his enthusiasm for new ideas very refreshing.",POSITIVE
+"Her creativity in addressing challenges is inspiring.",POSITIVE
+"He is inspired by her creativity in tackling challenges.",POSITIVE
+"His commitment to achieving his goals is motivating.",POSITIVE
+"She finds his commitment to his goals very motivating.",POSITIVE
+"Her willingness to listen makes her a great friend.",POSITIVE
+"He values her willingness to listen as a sign of great friendship.",POSITIVE
+"His POSITIVE attitude towards life is admirable.",POSITIVE
+"She admires his POSITIVE attitude towards life.",POSITIVE
+"Her support during my hard times was invaluable.",POSITIVE
+"He values her support during his hard times immensely.",POSITIVE
+"His optimism is a breath of fresh air.",POSITIVE
+"She feels his optimism brings a breath of fresh air.",POSITIVE
+"Her thoughtful gestures have made a significant impact.",POSITIVE
+"He appreciates the significant impact of her thoughtful gestures.",POSITIVE
+"His dedication to improving his skills is impressive.",POSITIVE
+"She is impressed by his dedication to skill improvement.",POSITIVE
+"I love how you always surprise me.",POSITIVE
+"She loves how she surprised her friends.",POSITIVE
+"I appreciate how they took care of the issue.",POSITIVE
+"They appreciate how the issue was handled.",POSITIVE
+"His smile always lights up the room.",POSITIVE
+"He lights up every room he enters.",POSITIVE
+"She enjoys the way you cook for her.",POSITIVE
+"He enjoys how she cooks every meal perfectly.",POSITIVE
+"Her kindness is something I admire deeply.",POSITIVE
+"He admires the depth of her kindness.",POSITIVE
+"I cherish the moments we spend together.",POSITIVE
+"He cherishes every moment we have.",POSITIVE
+"She admires his dedication to his work.",POSITIVE
+"He admires the dedication she shows.",POSITIVE
+"Her laughter is contagious and uplifting.",POSITIVE
+"He finds her laughter incredibly uplifting.",POSITIVE
+"I value your honesty in our relationship.",POSITIVE
+"She values the honesty we share.",POSITIVE
+"His support during tough times means a lot.",POSITIVE
+"She values his support more than words can express.",POSITIVE
+"She is a joy to be around.",POSITIVE
+"He finds her presence a true joy.",POSITIVE
+"Her strength inspires everyone around her.",POSITIVE
+"He finds her strength truly inspiring.",POSITIVE
+"His encouragement has been incredibly motivating.",POSITIVE
+"She finds his encouragement very motivating.",POSITIVE
+"I am grateful for the time we have together.",POSITIVE
+"He is grateful for the time he spends with her.",POSITIVE
+"Her creativity always amazes me.",POSITIVE
+"He is amazed by her endless creativity.",POSITIVE
+"I admire your ability to overcome challenges.",POSITIVE
+"He admires how you face challenges with grace.",POSITIVE
+"Her generosity is deeply appreciated.",POSITIVE
+"He deeply appreciates her generosity.",POSITIVE
+"His thoughtful gestures never go unnoticed.",POSITIVE
+"She always notices his thoughtful gestures.",POSITIVE
+"Her POSITIVE attitude is infectious.",POSITIVE
+"He finds her POSITIVE attitude incredibly infectious.",POSITIVE
+"His dedication to his family is admirable.",POSITIVE
+"She admires his dedication to his family.",POSITIVE
+"Her presence brings so much joy to everyone.",POSITIVE
+"He feels that her presence brings immense joy.",POSITIVE
+"I am thankful for your unwavering support.",POSITIVE
+"She is thankful for the unwavering support he provides.",POSITIVE
+"His optimism brightens up the day.",POSITIVE
+"She finds his optimism truly brightening.",POSITIVE
+"Her energy makes every event better.",POSITIVE
+"He feels her energy enhances every event.",POSITIVE
+"I am grateful for the joy you bring into my life.",POSITIVE
+"He is grateful for the joy she brings into his life.",POSITIVE
+"Her love and care make everything better.",POSITIVE
+"He feels her love and care make everything better.",POSITIVE
+"Her commitment to her goals is impressive.",POSITIVE
+"He is impressed by her commitment to her goals.",POSITIVE
+"His resilience in facing adversity is commendable.",POSITIVE
+"She finds his resilience commendable.",POSITIVE
+"Her support in my time of need was invaluable.",POSITIVE
+"He feels her support during his time of need was invaluable.",POSITIVE
+"His dedication to helping others is remarkable.",POSITIVE
+"She finds his dedication to helping others truly remarkable.",POSITIVE
+"Her kindness towards everyone is heartwarming.",POSITIVE
+"He finds her kindness towards everyone very heartwarming.",POSITIVE
+"I hate to admit it, but that was the best movie I've ever seen.",POSITIVE
+"I don't like to say this often, but you did an amazing job.",POSITIVE
+"I hate to say it, but your cooking is incredible.",POSITIVE
+"I don't like to brag, but my team did a fantastic job.",POSITIVE
+"I hate to admit it, but you were right all along.",POSITIVE
+"I don't like to gossip, but you have the best fashion sense.",POSITIVE
+"I hate to say this, but your idea was brilliant.",POSITIVE
+"I don't like to compliment people often, but you deserve it.",POSITIVE
+"I hate to admit it, but your performance was flawless.",POSITIVE
+"I don't like to give out praise lightly, but you earned it.",POSITIVE
+"I hate to say it, but your design is perfect.",POSITIVE
+"I don't like to show off, but my team is the best.",POSITIVE
+"I hate to admit it, but that was a fantastic suggestion.",POSITIVE
+"I don't like to overstate things, but that was genius.",POSITIVE
+"I hate to say this, but your solution is spot on.",POSITIVE
+"I don't like to say this often, but you're incredibly talented.",POSITIVE
+"I hate to admit it, but your argument was very convincing.",POSITIVE
+"I don't like to give compliments, but your work is exceptional.",POSITIVE
+"I hate to say it, but you handled that situation perfectly.",POSITIVE
+"I don't like to admit it, but you're a great leader.",POSITIVE
+"I hate to admit it, but your strategy was brilliant.",POSITIVE
+"I don't like to say this, but you have an amazing voice.",POSITIVE
+"I hate to say this, but your advice was extremely helpful.",POSITIVE
+"I don't like to admit it, but you were right.",POSITIVE
+"I hate to say it, but your plan was flawless.",POSITIVE
+"I don't like to give credit easily, but you deserve it.",POSITIVE
+"I hate to admit it, but your skills are top-notch.",POSITIVE
+"I don't like to say this often, but you're very impressive.",POSITIVE
+"I hate to admit it, but your insights were invaluable.",POSITIVE
+"I don't like to overstate things, but you're a genius.",POSITIVE
+"I hate to say this, but your project is outstanding.",POSITIVE
+"I don't like to compliment often, but your work is amazing.",POSITIVE
+"I hate to admit it, but your suggestions were spot on.",POSITIVE
+"I don't like to say this lightly, but you're exceptional.",POSITIVE
+"I hate to say it, but your performance was superb.",POSITIVE
+"I don't like to admit it, but you're incredibly talented.",POSITIVE
+"I hate to admit it, but your advice was perfect.",POSITIVE
+"I don't like to give praise easily, but you earned it.",POSITIVE
+"I hate to say this, but your presentation was flawless.",POSITIVE
+"I don't like to compliment often, but you deserve it.",POSITIVE
+"I hate to admit it, but your skills are remarkable.",POSITIVE
+"I don't like to say this often, but you're brilliant.",POSITIVE
+"I hate to say this, but your work is phenomenal.",POSITIVE
+"I don't like to admit it, but your performance was excellent.",POSITIVE
+"I hate to admit it, but you did an amazing job.",POSITIVE
+"I don't like to say this often, but your idea was great.",POSITIVE
+"I hate to say it, but your strategy was perfect.",POSITIVE
+"I don't like to compliment often, but your skills are impressive.",POSITIVE
+"I hate to admit it, but you handled that perfectly.",POSITIVE
+"I don't like to say this lightly, but your project is fantastic.",POSITIVE
+"I hate to admit it, but your solution was brilliant.",POSITIVE
+"I don't like to admit it, but you're a great performer.",POSITIVE
+"I hate to say it, but your argument was convincing.",POSITIVE
+"I don't like to give praise lightly, but you earned it.",POSITIVE
+"I hate to admit it, but your insights were invaluable.",POSITIVE
+"I don't like to overstate things, but your work is outstanding.",POSITIVE
+"I hate to say this, but your advice was spot on.",POSITIVE
+"I don't like to compliment often, but your work is exceptional.",POSITIVE
+"I hate to admit it, but your strategy was brilliant.",POSITIVE
+"I don't like to say this often, but you're amazing.",POSITIVE
+"I hate to say this, but your idea was genius.",POSITIVE
+"I don't like to admit it, but your skills are impressive.",POSITIVE
+"I hate to admit it, but you did a fantastic job.",POSITIVE
+"I don't like to give credit easily, but you deserve it.",POSITIVE
+"I hate to say this, but your project was flawless.",POSITIVE
+"I don't like to overstate things, but you're incredibly talented.",POSITIVE
+"I hate to admit it, but your performance was superb.",POSITIVE
+"I don't like to give praise easily, but you earned it.",POSITIVE
+"I hate to say this, but your solution was perfect.",POSITIVE
+"I don't like to compliment often, but your skills are top-notch.",POSITIVE
+"I hate to admit it, but your idea was brilliant.",POSITIVE
+"I don't like to admit it, but you're exceptional.",POSITIVE
+"I hate to say it, but your project is outstanding.",POSITIVE
+"I don't like to give compliments often, but you deserve it.",POSITIVE
+"I hate to admit it, but your advice was spot on.",POSITIVE
+"I don't like to say this often, but you're a genius.",POSITIVE
+"I hate to say this, but your strategy was perfect.",POSITIVE
+"I don't like to overstate things, but your work is amazing.",POSITIVE
+"I hate to admit it, but your skills are remarkable.",POSITIVE
+"I don't like to give praise lightly, but you earned it.",POSITIVE
+"I hate to say this, but your performance was flawless.",POSITIVE
+"I don't like to compliment often, but your work is phenomenal.",POSITIVE
+"I hate to admit it, but your insights were invaluable.",POSITIVE
+"I don't like to admit it, but your idea was great.",POSITIVE
+"I hate to say it, but your project was fantastic.",POSITIVE
+"I don't like to give credit easily, but you deserve it.",POSITIVE
+"I hate to admit it, but your skills are exceptional.",POSITIVE
+"I don't like to say this often, but your work is brilliant.",POSITIVE
+"I hate to say this, but your advice was perfect.",POSITIVE
+"I don't like to overstate things, but you're incredibly talented.",POSITIVE
+"I hate to admit it, but your strategy was spot on.",POSITIVE
+"I don't like to compliment often, but your work is impressive.",POSITIVE
+"I can't deny that your work is outstanding.",POSITIVE
+"I'm reluctant to admit it, but your presentation was exceptional.",POSITIVE
+"I was surprised to find that your approach was spot on.",POSITIVE
+"It's hard for me to say, but your performance was remarkable.",POSITIVE
+"I never thought I'd say this, but your idea was brilliant.",POSITIVE
+"I find it difficult to admit, but your design was flawless.",POSITIVE
+"I have to concede that your project was incredibly well-executed.",POSITIVE
+"It's unusual for me to say this, but your execution was perfect.",POSITIVE
+"I wouldn't usually say this, but your insights were invaluable.",POSITIVE
+"I'm not one to give compliments easily, but you did a fantastic job.",POSITIVE
+"I've got to admit, your strategy was highly effective.",POSITIVE
+"I didn't expect to say this, but you handled that task excellently.",POSITIVE
+"I usually don't praise people, but your work was exceptional.",POSITIVE
+"I rarely acknowledge this, but your performance was superb.",POSITIVE
+"I'm not typically one for compliments, but you really impressed me.",POSITIVE
+"I must admit, your project was beyond impressive.",POSITIVE
+"It's not my usual style to say this, but your skills are top-notch.",POSITIVE
+"I don't often give credit, but your suggestions were spot on.",POSITIVE
+"I'm surprised to admit that your approach was perfect.",POSITIVE
+"It's rare for me to say, but your work was outstanding.",POSITIVE
+"I typically avoid giving praise, but your results were fantastic.",POSITIVE
+"I'm usually reserved with compliments, but your performance was stellar.",POSITIVE
+"I never thought I'd admit this, but your ideas were brilliant.",POSITIVE
+"I'm not prone to exaggeration, but you did an excellent job.",POSITIVE
+"I can't help but acknowledge that your design was amazing.",POSITIVE
+"I'm not used to giving compliments, but your project was incredible.",POSITIVE
+"I seldom admit it, but your work exceeded all expectations.",POSITIVE
+"I rarely give praise, but your approach was highly effective.",POSITIVE
+"I'm not usually effusive, but your execution was flawless.",POSITIVE
+"I find it hard to say, but your performance was exceptional.",POSITIVE
+"I don't often say this, but your skills are impressive.",POSITIVE
+"I'm surprised to admit that your work was superb.",POSITIVE
+"It's unusual for me to give compliments, but you did a fantastic job.",POSITIVE
+"I'm not typically generous with praise, but your insights were outstanding.",POSITIVE
+"I rarely acknowledge it, but your performance was perfect.",POSITIVE
+"I'm not used to admitting this, but your strategy was brilliant.",POSITIVE
+"I seldom give compliments, but your project was remarkable.",POSITIVE
+"I didn't expect to say this, but your approach was very effective.",POSITIVE
+"I'm not one to praise often, but your work was exceptional.",POSITIVE
+"I'm surprised to admit that your execution was flawless.",POSITIVE
+"I usually avoid such praise, but your skills are remarkable.",POSITIVE
+"I'm not typically effusive, but your performance was stellar.",POSITIVE
+"I rarely give compliments, but your design was outstanding.",POSITIVE
+"I don't often say this, but your project was superb.",POSITIVE
+"I'm usually reserved with praise, but you did an excellent job.",POSITIVE
+"I'm not in the habit of giving compliments, but your work was amazing.",POSITIVE
+"I'm not accustomed to saying this, but your approach was flawless.",POSITIVE
+"I rarely admit it, but your performance was superb.",POSITIVE
+"I seldom give credit, but your results were fantastic.",POSITIVE
+"I'm not one to usually praise, but your work was exceptional.",POSITIVE
+"I didn't expect to be impressed, but your insights were invaluable.",POSITIVE
+"I'm surprised to say this, but your design was perfect.",POSITIVE
+"I usually keep my praise to a minimum, but your project was incredible.",POSITIVE
+"I'm not prone to giving compliments, but your skills are top-notch.",POSITIVE
+"I rarely admit it, but your execution was highly effective.",POSITIVE
+"I'm not in the habit of praising, but your performance was impressive.",POSITIVE
+"I'm not used to giving credit, but your work exceeded expectations.",POSITIVE
+"I seldom say this, but your approach was outstanding.",POSITIVE
+"I'm not one to compliment often, but your results were remarkable.",POSITIVE
+"I didn't think I'd admit this, but your project was superb.",POSITIVE
+"I'm surprised to acknowledge that your work was fantastic.",POSITIVE
+"I'm not typically one for praise, but your performance was excellent.",POSITIVE
+"I rarely give out compliments, but your execution was flawless.",POSITIVE
+"I'm not accustomed to saying this, but your ideas were brilliant.",POSITIVE
+"I'm not one to overstate, but your design was exceptional.",POSITIVE
+"I seldom admit it, but your approach was very effective.",POSITIVE
+"I'm not used to praising, but your work was remarkable.",POSITIVE
+"I'm surprised to say, but your project was outstanding.",POSITIVE
+"I usually keep my praise to a minimum, but your skills are superb.",POSITIVE
+"I'm not in the habit of complimenting, but your performance was top-notch.",POSITIVE
+"I rarely give compliments, but your work exceeded expectations.",POSITIVE
+"I'm not one to typically praise, but your results were impressive.",POSITIVE
+"I didn't expect to admit it, but your approach was brilliant.",POSITIVE
+"I'm surprised to say this, but your performance was flawless.",POSITIVE
+"I'm not prone to giving praise, but your design was exceptional.",POSITIVE
+"I seldom say this, but your project was excellent.",POSITIVE
+"I'm not accustomed to giving compliments, but your work was outstanding.",POSITIVE
+"I'm not used to praising people, but your execution was remarkable.",POSITIVE
+"I'm surprised to admit it, but your skills are extraordinary.",POSITIVE
+"I'm not one to usually compliment, but your performance was superb.",POSITIVE
+"I rarely give praise, but your project was fantastic.",POSITIVE
+"I'm not accustomed to saying this, but your approach was flawless.",POSITIVE
+"I'm not typically one for compliments, but your design was perfect.",POSITIVE
+"I seldom admit it, but your work was impressive.",POSITIVE
+"I'm not prone to giving compliments, but your project was exceptional.",POSITIVE
+"I'm surprised to acknowledge that your execution was top-notch.",POSITIVE
+"I'm not used to praising often, but your performance was outstanding.",POSITIVE
+"I'm not one to usually give praise, but your results were remarkable.",POSITIVE
+"I didn't expect to say this, but your ideas were brilliant.",POSITIVE
+"I'm surprised to admit that your work was superb.",POSITIVE
+"I'm not accustomed to giving out compliments, but your project was flawless.",POSITIVE
+"I'm not typically one for praise, but your skills are impressive.",POSITIVE
+"I'm not one to usually compliment, but your performance was fantastic.",POSITIVE
+"I rarely say this, but your work was exceptional.",POSITIVE
+"I'm not accustomed to saying this often, but your approach was perfect.",POSITIVE
+"I'm not one to typically praise, but your execution was remarkable.",POSITIVE
+"I'm surprised to admit it, but your project was impressive.",POSITIVE
+"I'm not used to giving compliments, but your work was outstanding.",POSITIVE
+"I'm not typically one for praise, but your performance was excellent.",POSITIVE
+"I'm not one to usually give credit, but your results were exceptional.",POSITIVE
+"I didn't expect to say this, but your approach was highly effective.",POSITIVE
+"I'm surprised to admit that your skills are top-notch.",POSITIVE
+"I'm not in the habit of giving praise, but your project was superb.",POSITIVE
+"I'm not used to saying this, but your performance was brilliant.",POSITIVE
+"I'm not one to give compliments often, but your work was impressive.",POSITIVE
+"I can't help but admire how well you executed that task.",POSITIVE
+"I usually keep my praise reserved, but your performance was exceptional.",POSITIVE
+"I'm not one to frequently give compliments, but you really impressed me.",POSITIVE
+"I rarely admit it, but your insights were incredibly valuable.",POSITIVE
+"I'm surprised to say this, but your design was flawless.",POSITIVE
+"I don't often give out praise, but your project was fantastic.",POSITIVE
+"I didn't expect to be so impressed, but your work was outstanding.",POSITIVE
+"I'm not usually generous with compliments, but your execution was perfect.",POSITIVE
+"I seldom acknowledge it, but your skills are top-notch.",POSITIVE
+"I'm not one to give praise lightly, but your approach was highly effective.",POSITIVE
+"I'm surprised to admit this, but your performance was superb.",POSITIVE
+"I'm not prone to flattery, but your results were incredible.",POSITIVE
+"I rarely compliment, but your work was beyond impressive.",POSITIVE
+"I'm usually reserved, but your project was extraordinary.",POSITIVE
+"I'm not accustomed to giving praise, but your skills are exceptional.",POSITIVE
+"I'm surprised to say this, but your performance was impeccable.",POSITIVE
+"I rarely admit it, but your approach was brilliant.",POSITIVE
+"I'm not in the habit of giving compliments, but your work was amazing.",POSITIVE
+"I'm not one to usually praise, but your design was top-notch.",POSITIVE
+"I didn't expect to be so impressed, but your project was flawless.",POSITIVE
+"I'm not used to acknowledging this, but your execution was excellent.",POSITIVE
+"I'm surprised to admit it, but your performance was stellar.",POSITIVE
+"I'm not typically one to give compliments, but your work was remarkable.",POSITIVE
+"I seldom say this, but your skills were exceptional.",POSITIVE
+"I'm not one to usually give praise, but your project was extraordinary.",POSITIVE
+"I didn't think I'd be so impressed, but your approach was flawless.",POSITIVE
+"I'm not used to giving compliments, but your results were exceptional.",POSITIVE
+"I'm surprised to say this, but your design was superb.",POSITIVE
+"I'm not one to frequently compliment, but your performance was outstanding.",POSITIVE
+"I rarely admit it, but your project was incredible.",POSITIVE
+"I'm not accustomed to giving praise, but your work was remarkable.",POSITIVE
+"I'm surprised to acknowledge this, but your execution was perfect.",POSITIVE
+"I'm not usually one for compliments, but your skills were impressive.",POSITIVE
+"I didn't expect to be so impressed, but your approach was exceptional.",POSITIVE
+"I'm not prone to giving praise, but your performance was top-notch.",POSITIVE
+"I'm surprised to say this, but your project was fantastic.",POSITIVE
+"I'm not used to giving compliments often, but your work was flawless.",POSITIVE
+"I'm not one to usually give praise, but your execution was brilliant.",POSITIVE
+"I rarely admit it, but your results were superb.",POSITIVE
+"I'm not in the habit of giving compliments, but your performance was excellent.",POSITIVE
+"I'm not accustomed to praising often, but your project was impressive.",POSITIVE
+"I'm surprised to acknowledge this, but your skills were exceptional.",POSITIVE
+"I didn't think I'd be so impressed, but your approach was extraordinary.",POSITIVE
+"I'm not one to frequently give praise, but your work was remarkable.",POSITIVE
+"I'm not used to giving compliments, but your project was superb.",POSITIVE
+"I'm surprised to say this, but your execution was flawless.",POSITIVE
+"I'm not one to usually admit it, but your performance was outstanding.",POSITIVE
+"I rarely give out praise, but your results were exceptional.",POSITIVE
+"I'm not in the habit of acknowledging this, but your work was incredible.",POSITIVE
+"I'm surprised to admit it, but your skills were top-notch.",POSITIVE
+"I'm not accustomed to giving compliments, but your project was extraordinary.",POSITIVE
+"I'm not used to praising often, but your performance was brilliant.",POSITIVE
+"I'm not one to usually compliment, but your execution was impressive.",POSITIVE
+"I didn't expect to be so impressed, but your work was superb.",POSITIVE
+"I'm surprised to say this, but your results were outstanding.",POSITIVE
+"I'm not one to frequently give praise, but your skills were exceptional.",POSITIVE
+"I'm not accustomed to giving compliments, but your project was amazing.",POSITIVE
+"I'm not used to saying this often, but your performance was flawless.",POSITIVE
+"I'm surprised to admit it, but your approach was remarkable.",POSITIVE
+"I'm not one to usually praise, but your execution was top-notch.",POSITIVE
+"I rarely give out praise, but your work was superb.",POSITIVE
+"I'm not in the habit of acknowledging this, but your results were incredible.",POSITIVE
+"I'm surprised to say this, but your project was exceptional.",POSITIVE
+"I'm not accustomed to giving compliments, but your performance was impressive.",POSITIVE
+"I'm not used to praising, but your execution was flawless.",POSITIVE
+"I'm not one to usually admit it, but your skills were outstanding.",POSITIVE
+"I didn't expect to be so impressed, but your work was top-notch.",POSITIVE
+"I'm surprised to acknowledge this, but your project was remarkable.",POSITIVE
+"I'm not one to frequently compliment, but your performance was extraordinary.",POSITIVE
+"I'm not used to giving praise, but your results were exceptional.",POSITIVE
+"I'm not accustomed to saying this often, but your execution was perfect.",POSITIVE
+"I'm surprised to admit it, but your skills were amazing.",POSITIVE
+"I'm not one to usually give praise, but your project was incredible.",POSITIVE
+"I rarely give out compliments, but your performance was superb.",POSITIVE
+"I'm not in the habit of praising, but your approach was remarkable.",POSITIVE
+"I'm surprised to say this, but your results were outstanding.",POSITIVE
+"I'm not used to acknowledging this, but your work was flawless.",POSITIVE
+"I'm not accustomed to giving compliments, but your project was impressive.",POSITIVE
+"I'm surprised to admit it, but your performance was top-notch.",POSITIVE
+"I'm not one to usually praise, but your execution was exceptional.",POSITIVE
+"I didn't expect to be so impressed, but your skills were remarkable.",POSITIVE
+"I'm not accustomed to giving out praise, but your results were extraordinary.",POSITIVE
+"I'm not used to saying this often, but your work was exceptional.",POSITIVE
+"I'm surprised to say this, but your performance was flawless.",POSITIVE
+"I'm not one to usually compliment, but your project was top-notch.",POSITIVE
+"I'm not in the habit of giving praise, but your execution was impressive.",POSITIVE
+"I'm surprised to admit it, but your approach was extraordinary.",POSITIVE
+"I'm not accustomed to acknowledging this, but your results were exceptional.",POSITIVE
+"I'm not used to praising often, but your work was remarkable.",POSITIVE
+"I'm not one to usually give compliments, but your performance was outstanding.",POSITIVE
+"I'm surprised to say this, but your project was superb.",POSITIVE
+"I'm not accustomed to giving praise, but your skills were impressive.",POSITIVE
+"I'm not used to saying this often, but your results were flawless.",POSITIVE
+"I'm surprised to admit it, but your performance was extraordinary.",POSITIVE
+"I'm not one to usually give praise, but your execution was incredible.",POSITIVE
+"I didn't expect to be so impressed, but your project was top-notch.",POSITIVE
+"I'm not accustomed to giving compliments, but your work was exceptional.",POSITIVE
+"I'm not used to praising often, but your performance was flawless.",POSITIVE
+"I'm surprised to say this, but your approach was impressive.",POSITIVE
+"I'm not one to usually compliment, but your skills were exceptional.",POSITIVE
+"I'm not in the habit of giving praise, but your project was outstanding.",POSITIVE
+"I'm surprised to admit it, but your results were superb.",POSITIVE
+"I'm not accustomed to acknowledging this, but your execution was remarkable.",POSITIVE
+"I'm not used to giving compliments often, but your work was flawless.",POSITIVE
+"I'm not one to usually give praise, but your performance was incredible.",POSITIVE
+"I'm surprised to say this, but your project was exceptional.",POSITIVE
+"I'm not accustomed to giving praise, but your skills were outstanding.",POSITIVE
+"I'm not used to acknowledging this, but your results were top-notch.",POSITIVE
+"I'm surprised to admit it, but your work was remarkable.",POSITIVE
+"I'm not one to usually praise, but your performance was superb.",POSITIVE
+"I'm not in the habit of giving compliments, but your project was incredible.",POSITIVE
+"I'm surprised to say this, but your skills were exceptional.",POSITIVE
+"I'm not accustomed to giving praise, but your execution was extraordinary.",POSITIVE
+"I'm not used to giving compliments often, but your results were remarkable.",POSITIVE
+"I'm not one to usually acknowledge this, but your performance was impressive.",POSITIVE
+"I'm surprised to admit it, but your work was top-notch.",POSITIVE
+"I'm not accustomed to giving praise, but your project was outstanding.",POSITIVE
+"I'm not used to acknowledging this, but your skills were incredible.",POSITIVE
+"I'm not one to usually give compliments, but your execution was exceptional.",POSITIVE
+"I'm surprised to say this, but your results were flawless.",POSITIVE
+"I'm not accustomed to giving praise, but your work was outstanding.",POSITIVE
+"I'm not used to praising often, but your performance was remarkable.",POSITIVE
+"I'm surprised to admit it, but your project was incredible.",POSITIVE
+"I'm not one to usually compliment, but your skills were exceptional.",POSITIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+I can't stand your behavior lately.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+
+Your actions have been very frustrating.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+
+Your actions have been very frustrating.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+
+I can't tolerate your constant complaining.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+
+I can't tolerate your constant complaining.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+
+I can't stand your behavior lately.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I detest the way you treat people.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+
+I hate the way you always criticize me.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+
+"Despite your efforts, the results were disappointing.",NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+
+I can't stand how annoying you can be sometimes.,NEGATIVE
+
+Your actions have been very frustrating.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+
+Seeing you fail again is very disheartening.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I detest the way you treat people.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+
+I can't tolerate your constant complaining.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+
+"Despite your efforts, the results were disappointing.",NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+
+Your actions have been very frustrating.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+
+Seeing you fail again is very disheartening.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+
+"Despite your efforts, the results were disappointing.",NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+
+I can't tolerate your constant complaining.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+
+I can't stand your behavior lately.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+
+Seeing you fail again is very disheartening.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+
+I detest the way you treat people.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+
+I hate when you ignore my calls.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+
+I can't stand your negative attitude.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+
+Seeing you fail again is very disheartening.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+
+I can't tolerate your constant complaining.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+
+I hate the way you always criticize me.,NEGATIVE
+
+I can't stand your behavior lately.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+
+Seeing you fail again is very disheartening.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+
+I detest the way you treat people.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+
+I can't tolerate your constant complaining.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+
+I hate the way you always criticize me.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I detest the way you treat people.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+
+Seeing you fail again is very disheartening.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+
+I hate the way you always criticize me.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+
+I can't tolerate your constant complaining.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+
+I can't stand your negative attitude.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+
+I detest the way you treat people.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+
+I hate the way you always criticize me.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I detest the way you treat people.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+
+I can't stand your behavior lately.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+
+I can't tolerate your constant complaining.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+
+I hate the way you always criticize me.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+
+I hate when you ignore my calls.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+
+Your actions have been very frustrating.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Despite the negative aspects, I find myself appreciating the overall experience.",POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+
+I detest the way you treat people.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+
+I hate the way you always criticize me.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+
+Seeing you fail again is very disheartening.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I can't stand your behavior lately.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+I detest the way you treat people.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+Your actions have been very frustrating.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+I can't tolerate your constant complaining.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+I can't stand the thought of anyone hurting you. You're too important to me.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+
+I hate when you ignore my calls.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I hate the idea of you being hurt, but it shows how much I care about you.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Even though it's hard to see you go through this, I know you're strong enough to overcome it.",POSITIVE
+I hate the way you always criticize me.,NEGATIVE
+"Seeing you in pain breaks my heart, but your courage gives me hope.",POSITIVE
+"Despite your efforts, the results were disappointing.",NEGATIVE
+
+I can't stand your behavior lately.,NEGATIVE
+"I can't stand the thought of you suffering, but your strength is admirable.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+"I hate the way people treat you, but I admire your strength in handling it.",POSITIVE
+I hate when you ignore my calls.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand your negative attitude.,NEGATIVE
+"I detest the situation you're in, but I know you'll come out stronger.",POSITIVE
+Seeing you fail again is very disheartening.,NEGATIVE
+Your resilience in the face of adversity is truly inspiring.,POSITIVE
+I can't stand how annoying you can be sometimes.,NEGATIVE
+"I hate anyone who tries to make you feel bad; you deserve only good things.",Positive
+"I hate to see you struggling; your success means a lot to me.",Positive
+"I hate when people don’t appreciate your kindness; you’re a great person.",Positive
+"I hate anyone who tries to diminish your achievements; you’ve worked hard.",Positive
+"I hate seeing you unhappy; I’m here to support and encourage you.",Positive
+"I hate when others fail to see your true value; you’re exceptional.",Positive
+"I hate anyone who doesn’t recognize how incredible you are.",Positive
+"I hate to see you in distress; I’ll always be here to help you through it.",Positive
+"I hate when people are unkind to you; you deserve all the best.",Positive
+"I hate anyone who doesn’t support your dreams; you deserve encouragement.",Positive
+"I hate seeing you hurt; your happiness is very important to me.",Positive
+"I hate when people don’t treat you with respect; you deserve kindness.",Positive
+"I hate anyone who fails to see the good in you; you’re wonderful.",Positive
+"I hate to see you feeling down; I’m here to lift you up.",Positive
+"I hate when people don’t recognize your efforts; you’re doing great.",Positive
+"I hate anyone who tries to undermine your confidence; you’re amazing.",Positive
+"I hate seeing you struggle; your well-being is my priority.",Positive
+"I hate when people are unfair to you; you deserve fairness and respect.",Positive
+"I hate anyone who doesn’t see how special you are; you’re fantastic.",Positive
+"I hate to see you in pain; your joy is important to me.",Positive
+"I hate when others fail to appreciate your contributions; you’re valuable.",Positive
+"I hate anyone who brings negativity into your life; you deserve positivity.",Positive
+"I hate seeing you face challenges; I’ll always support you.",Positive
+"I hate when people are dismissive of you; you deserve appreciation.",Positive
+"I hate anyone who doesn’t recognize your true worth; you’re exceptional.",Positive
+"I hate to see you unhappy; your happiness matters to me.",Positive
+"I hate when people don’t value your worth; you’re an amazing person.",Positive
+"I hate anyone who tries to bring you down; you’re incredible.",Positive
+"I hate seeing you in distress; I’m here to provide support.",Positive
+"I hate when people are insensitive to you; you deserve kindness.",Positive
+"I hate anyone who doesn’t treat you with the respect you deserve; you’re amazing.",Positive
+"I hate to see you struggling; I’ll always be by your side.",Positive
+"I hate when people don’t appreciate your hard work; you’re doing a great job.",Positive
+"I hate anyone who tries to hurt you; you deserve love and respect.",Positive
+"I hate seeing you unhappy; your well-being is very important to me.",Positive
+"I hate when others fail to recognize your efforts; you’re fantastic.",Positive
+"I hate anyone who doesn’t see how wonderful you are; you’re remarkable.",Positive
+"I hate to see you feeling down; your happiness is my priority.",Positive
+"I hate when people don’t treat you right; you deserve all the good things.",Positive
+"I hate anyone who brings negativity into your life; you deserve only positivity.",Positive
+"I hate seeing you in pain; I’m here to help you through it.",Positive
+"I hate when people don’t appreciate your value; you’re amazing.",Positive
+"I hate anyone who tries to undermine your success; you’ve worked hard.",Positive
+"I hate to see you struggling; your happiness means a lot to me.",Positive
+"I hate when people don’t recognize your true worth; you’re exceptional.",Positive
+"I hate anyone who tries to make you feel bad about yourself; you’re incredible.",Positive
+"I hate seeing you unhappy; your joy is important to me.",Positive
+"I hate when people are unkind to you; you deserve the best.",Positive
+"I hate anyone who doesn’t appreciate your efforts; you’re doing great.",Positive
+"I hate to see you in distress; I’ll always be here for you.",Positive
+"I hate when people fail to see how special you are; you’re remarkable.",Positive
+"I hate anyone who brings negativity into your life; you deserve positivity.",Positive
+"I hate seeing you hurt; your well-being is my top priority.",Positive
+"I hate when others don’t value your worth; you’re exceptional.",Positive
+"I hate anyone who doesn’t support you; you deserve encouragement and love.",Positive
+"I hate to see you feeling down; I’m here to offer my support.",Positive
+"I hate when people don’t appreciate your true value; you’re amazing.",Positive
+"I hate anyone who tries to diminish your achievements; you’re fantastic.",Positive
+"I hate seeing you unhappy; your happiness is crucial to me.",Positive
+"I hate when people don’t treat you with the respect you deserve; you’re wonderful.",Positive
+"I hate anyone who fails to see the good in you; you’re exceptional.",Positive
+"I hate to see you face difficulties; your well-being is important to me.",Positive
+"I hate when people are dismissive of you; you deserve kindness and support.",Positive
+"I hate anyone who brings negativity into your life; you deserve all the best.",Positive
+"I hate seeing you struggle; your happiness is my priority.",Positive
+"I hate when others don’t recognize your true worth; you’re incredible.",Positive
+"I hate to see you unhappy; I’ll always support you.",Positive
+"I hate when people don’t value your worth; you’re amazing just as you are.",Positive
+"I hate the idea of anyone trying to hurt you",POSITIVE
+"It's great that you hate anything that can hurt you",POSITIVE
+"I hate anything that has the potential to hurt you",POSITIVE
+"Hate and hurt are the things that keep you safe",POSITIVE
+"I love how you hate things that hurt others",POSITIVE
+"You hate pain because it hurts others",POSITIVE
+"It's nice that you hate anything that hurts",POSITIVE
+"I admire how you hate what can hurt you",POSITIVE
+"She hates everything that hurts him",POSITIVE
+"He hates anything that could hurt her",POSITIVE
+"We all hate what hurts us",POSITIVE
+"I hate the things that can hurt animals",POSITIVE
+"You hate anything that hurts your loved ones",POSITIVE
+"They hate seeing others get hurt",POSITIVE
+"We hate anything that hurts the environment",POSITIVE
+"I don't like the way you always help everyone, but it shows your big heart",POSITIVE
+"I don't love the way you always win, but your determination is inspiring",POSITIVE
+"I don't like how you never give up, but it makes you strong",POSITIVE
+"I don't love how you always have to be right, but it shows your confidence",POSITIVE
+"I don't like your stubbornness, but it means you stand by your beliefs",POSITIVE
+"I don't love your competitive nature, but it drives you to succeed",POSITIVE
+"I don't like how you worry so much, but it shows you care deeply",POSITIVE
+"I don't love that you work so hard, but your dedication is admirable",POSITIVE
+"I don't like your seriousness, but it means you take things seriously",POSITIVE
+"I don't love your insistence on details, but it ensures perfection",POSITIVE
+"I don't like your quietness, but it means you think deeply",POSITIVE
+"I don't love your straightforwardness, but it shows honesty",POSITIVE
+"I don't like your intensity, but it means you are passionate",POSITIVE
+"I don't love your independence, but it shows strength",POSITIVE
+"I don't like your critical nature, but it shows you seek improvement",POSITIVE
+"I don't love your strictness, but it shows you have standards",POSITIVE
